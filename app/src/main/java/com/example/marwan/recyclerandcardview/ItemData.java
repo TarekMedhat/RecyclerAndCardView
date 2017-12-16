@@ -3,6 +3,7 @@ package com.example.marwan.recyclerandcardview;
 /**
  * Created by marwan on 12/14/17.
  */
+// Blueprint for the movies objects
 
 public class ItemData {
     private String head;
